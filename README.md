@@ -1,16 +1,29 @@
-# DS-Tapas
+# Data Science - Tapas
 
-Applied Data Science knowledge capsules (aka DS-Tapas). [Find out more!](https://datascience.arizona.edu/events/data-science-tapas)
-
-[Leave us feedback](https://uarizona.co1.qualtrics.com/jfe/form/SV_dmxCZsorVVr5lA2)
+Applied Data Science knowledge capsules (aka DS-Tapas). 
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Schedule
 
+### Spring 2025
+
+| Date        | Title           | Educator         | Materials         |
+|----------------|----------------|--------------------|--------------------|
+|  05-Feb-2025 |    |    |
+|  19-Feb-2025 |    |    |
+|  05-Mar-2025 |    |    |
+|  19-Mar-2025 |    |    |
+|  02-Apr-2025 |    |    |
+|  16-Apr-2025 |    |    |
+
+
+
+
+
 ### Spring 2023
 
-| Date        | Title                                        | Educator         | Materials                                                                                                                                                                                                                                        |
+| Date        | Title             | Educator         | Materials           |
 |----------------|----------------|--------------------|--------------------|
 | 02-Feb-2023 | Network Visualization in R   | Greg Chism       | [LINK](https://github.com/ua-data7/DS-Tapas/tree/main/Workshops/Spring2023/2023-Feb-02)/[Recording](https://arizona.zoom.us/rec/share/u3sWZ7tC0CCyKdOAd0FE_DyXQXdpdDA7W33kOYWWK5Fb_mOyin5CHZmhqcNb8-d-.0X60tkDcdlg3_HEV?startTime=1675375778000) |
 | 09-Feb-2023 | Outliers Analysis and Anomalies Detection | Carlos Lizárraga | [LINK](https://github.com/clizarraga-UAD7/Workshops/wiki/Outlier-analysis-and-anomalies-detection) / [Jupyter Notebook Example](https://github.com/clizarraga-UAD7/ML-Notebooks/blob/main/OutlierDetection.ipynb)    |
