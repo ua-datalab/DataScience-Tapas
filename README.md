@@ -1,6 +1,6 @@
 # Data Science - Tapas
 
-<img src="https://unsplash.com/photos/brown-wooden-framed-chalk-board-tngQhdQ6KAA", width=400>
+<img src="https://images.unsplash.com/photo-1625418277638-6db2d521a78c?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width=400>
 
 (Image credit: [Veronika Hradilová](https://unsplash.com/@vrsh). Unsplash.com)
 ***
