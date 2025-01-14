@@ -1,5 +1,10 @@
 # Data Science - Tapas
 
+<img src="https://unsplash.com/photos/brown-wooden-framed-chalk-board-tngQhdQ6KAA" width=400>
+
+(Image credit: [Veronika Hradilová](https://unsplash.com/@vrsh). Unsplash.com)
+***
+
 Applied Data Science knowledge capsules (aka DS-Tapas). 
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
