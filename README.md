@@ -13,6 +13,12 @@ Applied Data Science knowledge capsules (aka DS-Tapas).
 
 ### Spring 2025
 
+* [REGITRATION](https://uarizona.co1.qualtrics.com/jfe/form/SV_1H1ejWIvXm0EBUi)
+* **When:** Every other Wednesday @ 1PM
+* **Where**: Science & Engineering Library Room 212. 
+* [**Zoom link**]((https://arizona.zoom.us/j/89667081542)
+
+
 | Date        | Title           | Educator         | Materials         |
 |----------------|----------------|--------------------|--------------------|
 |  05-Feb-2025 |    |    |
