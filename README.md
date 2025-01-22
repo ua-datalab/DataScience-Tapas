@@ -20,13 +20,13 @@ Applied Data Science knowledge capsules (aka DS-Tapas).
 
 
 | Date        | Title           | Educator         | Materials         |
-|----------------|----------------|--------------------|--------------------|
-|  05-Feb-2025 |    |    |
-|  19-Feb-2025 |    |    |
-|  05-Mar-2025 |  Introduction to Visualization: Theory and Practice  |  Devin Bayly  |
-|  19-Mar-2025 |  Introduction to Python Accelerated Datascience with RAPIDS  |  Devin Bayly  |
-|  02-Apr-2025 |    |    |
-|  16-Apr-2025 |    |    |
+|:--:| :--| :--: | :--:|
+|  05-Feb-2025 |  Introduction to Python for Data Science  |   Carlos Lizárraga | [Link](https://github.com/ua-datalab/Workshops/wiki/Introduction-to-Python-for-Data-Science) |
+|  19-Feb-2025 |    |    | [Link]()  |
+|  05-Mar-2025 |  Introduction to Visualization: Theory and Practice  |  Devin Bayly  | [Link]()  |
+|  19-Mar-2025 |  Introduction to Python Accelerated Datascience with RAPIDS  |  Devin Bayly  |  [Link]() |
+|  02-Apr-2025 |    |    | [Link]()  |
+|  16-Apr-2025 |    |    | [Link]()  |
 
 
 
