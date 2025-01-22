@@ -24,10 +24,12 @@ Applied Data Science knowledge capsules (aka DS-Tapas).
 |  05-Feb-2025 |  Introduction to Python for Data Science  |   Carlos Lizárraga | [Link](https://github.com/ua-datalab/Workshops/wiki/Introduction-to-Python-for-Data-Science) |
 |  19-Feb-2025 |   |    | [Link]()  |
 |  05-Mar-2025 |  Introduction to Visualization: Theory and Practice  |  Devin Bayly  | [Link]()  |
-|  19-Mar-2025 |  Introduction to Python Accelerated Datascience with RAPIDS  |  Devin Bayly  |  [Link]() |
+|  19-Mar-2025 |   |  |  [Link]() |
 |  02-Apr-2025 |    |     | [Link]()  |
-|  16-Apr-2025 |   Speech to text with Whisper AI | Megh Krishnaswamy   | [Link](https://github.com/ua-datalab/NLP-Speech/blob/main/Speech_to_Text_with_Whisper/Speech_to_Text_with_Whisper.ipynb)  |
-
+|  16-Apr-2025 |   Introduction to Python Accelerated Datascience with RAPIDS | Devin Bayly | [Link]() |
+<!-- 
+| | Speech to text with Whisper AI | Megh Krishnaswamy   | [Link](https://github.com/ua-datalab/NLP-Speech/blob/main/Speech_to_Text_with_Whisper/Speech_to_Text_with_Whisper.ipynb)  |
+-->
 
 
 
