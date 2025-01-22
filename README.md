@@ -23,8 +23,8 @@ Applied Data Science knowledge capsules (aka DS-Tapas).
 |----------------|----------------|--------------------|--------------------|
 |  05-Feb-2025 |    |    |
 |  19-Feb-2025 |    |    |
-|  05-Mar-2025 |    |    |
-|  19-Mar-2025 |    |    |
+|  05-Mar-2025 |  Introduction to Visualization: Theory and Practice  |  Devin Bayly  |
+|  19-Mar-2025 |  Introduction to Python Accelerated Datascience with RAPIDS  |  Devin Bayly  |
 |  02-Apr-2025 |    |    |
 |  16-Apr-2025 |    |    |
 
