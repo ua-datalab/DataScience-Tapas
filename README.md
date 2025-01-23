@@ -19,16 +19,16 @@ Applied Data Science knowledge capsules (aka DS-Tapas).
 * **Zoom link**: [https://arizona.zoom.us/j/89667081542](https://arizona.zoom.us/j/89667081542)
 
 
-| Date        | Title           | Educator         | Materials         |
-|:--:| :--| :--: | :--:|
-|  05-Feb-2025 |  Introduction to Python for Data Science  |   Carlos Lizárraga | [Link](https://github.com/ua-datalab/Workshops/wiki/Introduction-to-Python-for-Data-Science) |
-|  19-Feb-2025 |   |    | [Link]()  |
-|  05-Mar-2025 |  Introduction to Visualization: Theory and Practice  |  Devin Bayly  | [Link]()  |
-|  19-Mar-2025 | Introduction to Deep Learning for Healthcare  | Greg Chism |  [Link]() |
-|  02-Apr-2025 |    |     | [Link]()  |
-|  16-Apr-2025 |   Introduction to Python Accelerated Datascience with RAPIDS | Devin Bayly | [Link]() |
+| Date        | Title           | Description | Educator         | Materials         |
+|:--:| :--| :-- | :--: | :--:|
+|  05-Feb-2025 |  Introduction to Python for Data Science  |  Python stands as a leading programming language in data science, known for its powerful capabilities in mathematics, statistics, machine learning, data visualization, and scientific computing. | Carlos Lizárraga | [Link](https://github.com/ua-datalab/Workshops/wiki/Introduction-to-Python-for-Data-Science) |
+|  19-Feb-2025 |   |   |  | [Link]()  |
+|  05-Mar-2025 |  Introduction to Visualization: Theory and Practice  | Visualization combines art and science to help understand complex information. It requires both theoretical knowledge of how people perceive visual elements like colors and shapes, and practical skills in using tools to create charts and graphs. Like artists, data visualizers tell stories through visual representations. |  Devin Bayly  | [Link]()  |
+|  19-Mar-2025 | Introduction to Deep Learning for Healthcare  | Advanced AI techniques like deep learning and sequence modeling play a transformative role in improving healthcare diagnostics and patient care. Understanding the ethical implications of AI in healthcare is crucial as we work to ensure responsible usage of these increasingly integrated technologies. | Greg Chism |  [Link]() |
+|  02-Apr-2025 |    |   |   | [Link]()  |
+|  16-Apr-2025 |   Introduction to Python Accelerated Data Science with RAPIDS | RAPIDS is a suite of software tools that accelerates data science workflows. Built to integrate with Python, it harnesses the parallel processing power of graphics processing units (GPUs). Like having thousands of tiny processors working simultaneously, GPUs enable much faster data processing. RAPIDS essentially acts as a turbocharger for data science projects. | Devin Bayly | [Link]() |
 <!-- 
-| | Speech to text with Whisper AI | Megh Krishnaswamy   | [Link](https://github.com/ua-datalab/NLP-Speech/blob/main/Speech_to_Text_with_Whisper/Speech_to_Text_with_Whisper.ipynb)  |
+| | Speech to text with Whisper AI | | Megh Krishnaswamy   | [Link](https://github.com/ua-datalab/NLP-Speech/blob/main/Speech_to_Text_with_Whisper/Speech_to_Text_with_Whisper.ipynb)  |
 -->
 
 
