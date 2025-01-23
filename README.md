@@ -25,11 +25,9 @@ Applied Data Science knowledge capsules (aka DS-Tapas).
 |  19-Feb-2025 |   |   |  | [Link]()  |
 |  05-Mar-2025 |  Introduction to Visualization: Theory and Practice  | Visualization combines art and science to help understand complex information. It requires both theoretical knowledge of how people perceive visual elements like colors and shapes, and practical skills in using tools to create charts and graphs. Like artists, data visualizers tell stories through visual representations. |  Devin Bayly  | [Link]()  |
 |  19-Mar-2025 | Introduction to Deep Learning for Healthcare  | Advanced AI techniques like deep learning and sequence modeling play a transformative role in improving healthcare diagnostics and patient care. Understanding the ethical implications of AI in healthcare is crucial as we work to ensure responsible usage of these increasingly integrated technologies. | Greg Chism |  [Link]() |
-|  02-Apr-2025 |    |   |   | [Link]()  |
+|  02-Apr-2025 |  Speech to text with Whisper AI  | Whisper AI is a speech recognition technology that converts spoken language into written text. It's an example of AI technology that can transcribe audio content into readable text format.  |  Megh Krishnaswamy  | [Link](https://github.com/ua-datalab/NLP-Speech/blob/main/Speech_to_Text_with_Whisper/Speech_to_Text_with_Whisper.ipynb)  |
 |  16-Apr-2025 |   Introduction to Python Accelerated Data Science with RAPIDS | RAPIDS is a suite of software tools that accelerates data science workflows. Built to integrate with Python, it harnesses the parallel processing power of graphics processing units (GPUs). Like having thousands of tiny processors working simultaneously, GPUs enable much faster data processing. RAPIDS essentially acts as a turbocharger for data science projects. | Devin Bayly | [Link]() |
-<!-- 
-| | Speech to text with Whisper AI | | Megh Krishnaswamy   | [Link](https://github.com/ua-datalab/NLP-Speech/blob/main/Speech_to_Text_with_Whisper/Speech_to_Text_with_Whisper.ipynb)  |
--->
+
 
 
 
