@@ -10,6 +10,8 @@ Applied Data Science Tapas knowledge capsules provide comprehensive educational 
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+***
+
 ## Schedule
 
 ### Spring 2025
@@ -19,8 +21,9 @@ Applied Data Science Tapas knowledge capsules provide comprehensive educational 
 * **Where**: Science & Engineering Library Room 212. 
 * **Zoom link**: [https://arizona.zoom.us/j/89667081542](https://arizona.zoom.us/j/89667081542)
 
+***
 
-| Date        | Title           | Description | Educator         | Materials         |
+| Date        | Title           | Description | Instructor         | Materials         |
 |:--:| :--| :-- | :--: | :--:|
 |  05-Feb-2025 |  Introduction to Python for Data Science  |  Python stands as a leading programming language in data science, known for its powerful capabilities in mathematics, statistics, machine learning, data visualization, and scientific computing. | Carlos Lizárraga | [Link](https://github.com/ua-datalab/Workshops/wiki/Introduction-to-Python-for-Data-Science) |
 |  19-Feb-2025 | Machine Learning Algorithms  | Classical machine learning methods developed before the rise of deep learning include decision trees, support vector machines, and linear regression. These algorithms work best with structured data and need manual feature engineering. | Carlos Lizárraga | [Link](https://github.com/clizarraga-UAD7/MLWorkshops/wiki)  |
@@ -36,7 +39,7 @@ Applied Data Science Tapas knowledge capsules provide comprehensive educational 
 
 ### Spring 2023
 
-| Date        | Title             | Educator         | Materials           |
+| Date        | Title             |  Instructor        | Materials           |
 |----------------|----------------|--------------------|--------------------|
 | 02-Feb-2023 | Network Visualization in R   | Greg Chism       | [LINK](https://github.com/ua-data7/DS-Tapas/tree/main/Workshops/Spring2023/2023-Feb-02)/[Recording](https://arizona.zoom.us/rec/share/u3sWZ7tC0CCyKdOAd0FE_DyXQXdpdDA7W33kOYWWK5Fb_mOyin5CHZmhqcNb8-d-.0X60tkDcdlg3_HEV?startTime=1675375778000) |
 | 09-Feb-2023 | Outliers Analysis and Anomalies Detection | Carlos Lizárraga | [LINK](https://github.com/clizarraga-UAD7/Workshops/wiki/Outlier-analysis-and-anomalies-detection) / [Jupyter Notebook Example](https://github.com/clizarraga-UAD7/ML-Notebooks/blob/main/OutlierDetection.ipynb)    |
