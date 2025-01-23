@@ -5,7 +5,8 @@
 (Image credit: [Veronika Hradilová](https://unsplash.com/@vrsh). Unsplash.com)
 ***
 
-Applied Data Science knowledge capsules (aka DS-Tapas). 
+## Data Science Tapas (aka DS-Tapas)
+Applied Data Science Tapas knowledge capsules provide comprehensive educational content spanning multiple domains: from foundational data science principles and methodologies, through advanced machine learning techniques and algorithms, to cutting-edge Deep Learning applications in Artificial Intelligence. These capsules are designed to bridge theoretical concepts with practical implementations, offering insights into both established practices and emerging trends in the field of computational data analysis.
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
