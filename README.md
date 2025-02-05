@@ -17,8 +17,7 @@ Applied Data Science Tapas knowledge capsules provide comprehensive educational 
 ### Spring 2025
 
 * [**Registration**](https://uarizona.co1.qualtrics.com/jfe/form/SV_brM5XGZHc4AhHgO) to attend in person or online. 
-* **When:** Every other Wednesday @ 1PM
-* **Where**: Science & Engineering Library Room 212. 
+* **When:** Virtual every other Wednesday @ 1PM 
 * **Zoom link**: [https://arizona.zoom.us/j/89667081542](https://arizona.zoom.us/j/89667081542)
 
 ***
