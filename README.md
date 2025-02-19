@@ -36,6 +36,17 @@ Applied Data Science Tapas knowledge capsules provide comprehensive educational 
 
 ## Previous Workshops
 
+### Spring 2024
+
+| Date        | Title          | Instructor         | Materials         | YouTube |
+|:--:| :-- | :--: | :--:| :-- |
+|   01-17-2024  | Command Line Interface | Carlos Lizárraga | [Notes](https://github.com/clizarraga-UAD7/Workshops/wiki/The-Command-Line-Interface-Shell) |  [video](https://youtu.be/U4lJuS8Om0o?si=KjmqlGCqO5K6WzTN) |
+|  01-24-2024 |  UNIX Shell Command Line Programming |   Carlos Lizárraga  | [Notes](https://github.com/ua-datalab/DataScienceTapas/wiki/UNIX-Shell-Command-Line-Programming) |  |
+| 01-31-2024  | Git/Github  |   | Michele Cosi  | [Notes](https://github.com/ua-datalab/DataScienceTapas/wiki/GitHub-and-Git) | [video](https://youtu.be/t1GjN2lfhGg?si=ZvhJ5G6uFr7UTAxh) |
+|  03-27-2024 |  Introduction to Markdown | Michele Cosi   |  [Notes](https://github.com/ua-datalab/DataScienceTapas/wiki/Data-Tapas:-Introduction-to-Markdown) | [video](https://youtu.be/X48fYLk3dS4?si=Ucuyk4aLvnwIxYC2) |  
+|  05-31-2024 | University of Arizona High Performance Computing  | Michele Cosi  | [Notes](https://github.com/ua-datalab/DataScienceTapas/wiki/The-HPC)  |  |  
+
+
 ### Spring 2023
 
 | Date        | Title             |  Instructor        | Materials           |
